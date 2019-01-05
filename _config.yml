@@ -17,4 +17,7 @@ title: Die Konsonanten
 description: ""
 url: "http://diekonsonanten.de" # the base hostname & protocol for your site, e.g. http://example.com
 show_downloads: false
+github:
+  is_project_page: False
 theme: jekyll-theme-cayman
+repository: DieKonsonanten/DieKonsonanten.github.io.git
